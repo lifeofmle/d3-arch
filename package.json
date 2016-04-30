@@ -1,0 +1,17 @@
+{
+  "name": "d3-arch",
+  "version": "1.0.0",
+  "description": "Testing how to use d3.js with arc diagrams",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
